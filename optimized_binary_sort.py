@@ -29,8 +29,6 @@ def optimized_binary_insertion_sort(arr):
 
     return arr
 
-
-# Contoh penggunaan
 data = [37, 23, 0, 17, 12, 72, 31]
 hasil = optimized_binary_insertion_sort(data.copy())
 
